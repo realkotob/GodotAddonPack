@@ -4,7 +4,7 @@ This repository contains not only a collection of Godot addons, it's also a demo
 
 The addons in this pack require Godot v3.2+ to work.
 
-**Regarding Godot 4**: I'm currently porting the relevant addons as a GDExtension. However that system still needs some polishing, which might delay an initial release of the extension.
+**Regarding Godot 4**: ~~I'm currently porting the relevant addons as a GDExtension. However that system still needs some polishing, which might delay an initial release of the extension.~~ The Extension Pack can now be found at https://github.com/Kehom/GDExtensionPack
 
 The following addons are part of this pack:
 
